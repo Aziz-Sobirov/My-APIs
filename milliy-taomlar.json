@@ -1,82 +1,96 @@
 [
-    {
-        "id": 0,
-        "title": "Mampar",
-        "price": "40000",
-        "category": "Suyuq taomlar",
-        "description": "Mampar — mazali va juda to'yimli suyuq taomlardan biri bo'lib, tayyorlash jarayoni ham umuman qiyinchilik tug'dirmaydi. Bizning usulda tayyorlanilgan mampardan tayyorlab ko'ring va oila a'zolaringizni tansiq ovqat bilan xushnud qiling.",
-        "image": "https://zira.uz/wp-content/uploads/2019/09/mampar-6.jpg"
-    },
-    {
-        "id": 1,
-        "title": "Xamir xasip",
-        "price": "60000",
-        "category": "Quyuq taomlar",
-        "description": "Xamir xasip juda to'yimli va mazali milliy taomlarimizdan biri bo'lib, u o'zining ajoyib ko'rinishi bilan har bir dasturxonga ko'rk beradi.Unga kerakli masalliqlar esa deyarli har bir ro'zg'ordan topiladi.",
-        "image": "https://zira.uz/wp-content/uploads/2019/03/xamir-hosip.jpg"
-    },
-    {
-        "id": 2,
-        "title": "Ko'k somsa",
-        "price": "10000",
-        "category": "Pishiriqlar",
-        "description": "Navro'z bayramini o'zimizning ko'k somsalarimiz tasavvur etib bo'lmaydi. Bugungi somsalarning xamirini tayyorlash esa ko'pchilik uchun yangilik bo'lsa ajab emas!",
-        "image": "https://zira.uz/wp-content/uploads/2018/03/kuk-samsa-1.jpg"
-    },
-    {
-        "id": 3,
-        "title": "Qozon kabob",
-        "price": "50000",
-        "category": "Quyuq taomlar",
-        "description": "Go'sht isi va va ziravorlar bilan to'yinib pishgan yangi chiqqan kartoshkadan mazaliroq taom bo'lmasa kerak. Ushbu taom ortiqcha urinishlarni talab etmasa ham, juda mazali bo'lib chiqadi.",
-        "image": "https://zira.uz/wp-content/uploads/2021/05/kazan-kebab-coca-cola-2.jpg"
-    },
-    {
-        "id": 4,
-        "title": "Manti «Atirgul»",
-        "price": "22000",
-        "category": "Quyuq taomlar",
-        "description": "Sizga o'zbek oshxonasining mazali va sevimli taomlaridan birining qiziqarli versiyasini tayyorlashni taklif etamiz. Mantalarning noodatiy ko'rinishi - dasturxonga tortganda chiroyli turadi. Aytgancha, nachinkasi chun siz piyoz va mol go'shtidan qizymadan foydalanishingiz mumkin, ammo bunday mantilarni yana kartoshka va hatto qovoq bilan pishirish ham mumkin.",
-        "image": "https://zira.uz/wp-content/uploads/2021/05/manty-rozochka-coca-cola-4.jpg"
-    },
-    {
-        "id": 5,
-        "title": "«Nuqta-nuqta»ga ega blinchiklar",
-        "price": "35000",
-        "category": "Nonushtalar",
-        "description": "«Nuqta-nuqta»ga ega noodatiy blinchiklar – istalgan nachinka bilan mos keladigan ajoyib desertdir. Ushbu blinchiklar har doim o'xshab chiqadi. Mana shunday yorqin blinchiklar tayyorlab, oila a'zolaringizni xursand qilishingizni maslahat beramiz.",
-        "image": "https://zira.uz/wp-content/uploads/2021/03/blinchiki-v-goroshek.jpg"
-    },
-    {
-        "id": 6,
-        "title": "Choyxona palov",
-        "price": "45000",
-        "category": "Quyuq taomlar",
-        "description": "Choyxona palov eng mazali oshlardan biri bo'lib, aynan shu palobni ko'pchilik o'z uyida tayyorlaydi. Bunda faqat qo'y go'shti va yog'idan foydalanamiz.",
-        "image": "https://zira.uz/wp-content/uploads/2018/10/chaykhanskiy-plov-5.jpg"
-    },
-    {
-        "id": 7,
-        "title": "Yeryong'oqli havodor pechenye",
-        "price": "12000",
-        "category": "Pishiriqlar",
-        "description": "Merenga - bu yengil, havodor va juda mazali yegulik bo'lib, bugun biz bunday og'izda eriydigan pechenyeni qanday tayyorlashni ko'rsatamiz. Ushbu pechenye merenga va yeryong'oq bo'laklaridan tayyorlanadi.",
-        "image": "https://zira.uz/wp-content/uploads/2021/04/arakhis-pechene-2.jpg"
-    },
-    {
-        "id": 8,
-        "title": "Olchaga ega shokoladli keks",
-        "price": "52000",
-        "category": "Pishiriqlar",
-        "description": "Biz olchaga ega shokoladli keks tayyorlashni taklif qilamiz - bu ozgina olcha nordonligi va shokolad ta'mi bilan to'yingan juda mazali keks. Keks - bu kutilmagan mehmonlar uchun yoki yaqinlaringizga choy uchun tezda biror narsa tayyorlash kerak bo'lganda mos keladigan pishirish turi.",
-        "image": "https://zira.uz/wp-content/uploads/2021/02/shokoladnyi--_keks_s_vishnei--_i_glazuryu.jpg"
-    },
-    {
-        "id": 9,
-        "title": "«Oreo» torti",
-        "price": "67000",
-        "category": "Pishiriqlar",
-        "description": "«Oreo» pechenyelariga ega pishirishni talab etmaydigan juda mazali tort tayyorlashni taklif etamiz. Uni tayyorlash oson va sodda, bunday tort ajoyib ko'rinadi va hatto bayramona shirinlikni ham to'liq o'rnini bosa oladi. Tortning ta'mi nozik va qaymoqli bo'lib chiqadi, chunki uning asosiy tarkibi tvorogli pishloqdir. Ushbu shirinlik kattalar va bolalar tomonidan qadrlanishi aniq. Ustini xohlaganingizcha bezashingiz mumkin.",
-        "image": "https://zira.uz/wp-content/uploads/2021/04/tort-oreo-5.jpg"
-    }
-]
+  {
+    id: 0,
+    title: "Mampar",
+    price: 40000,
+    category: "Suyuq taomlar",
+    description:
+      "Mampar — mazali va juda to'yimli suyuq taomlardan biri bo'lib, tayyorlash jarayoni ham umuman qiyinchilik tug'dirmaydi. Bizning usulda tayyorlanilgan mampardan tayyorlab ko'ring va oila a'zolaringizni tansiq ovqat bilan xushnud qiling.",
+    image: "https://zira.uz/wp-content/uploads/2019/09/mampar-6.jpg",
+  },
+  {
+    id: 1,
+    title: "Xamir xasip",
+    price: 60000,
+    category: "Quyuq taomlar",
+    description:
+      "Xamir xasip juda to'yimli va mazali milliy taomlarimizdan biri bo'lib, u o'zining ajoyib ko'rinishi bilan har bir dasturxonga ko'rk beradi.Unga kerakli masalliqlar esa deyarli har bir ro'zg'ordan topiladi.",
+    image: "https://zira.uz/wp-content/uploads/2019/03/xamir-hosip.jpg",
+  },
+  {
+    id: 2,
+    title: "Ko'k somsa",
+    price: 10000,
+    category: "Pishiriqlar",
+    description:
+      "Navro'z bayramini o'zimizning ko'k somsalarimiz tasavvur etib bo'lmaydi. Bugungi somsalarning xamirini tayyorlash esa ko'pchilik uchun yangilik bo'lsa ajab emas!",
+    image: "https://zira.uz/wp-content/uploads/2018/03/kuk-samsa-1.jpg",
+  },
+  {
+    id: 3,
+    title: "Qozon kabob",
+    price: 50000,
+    category: "Quyuq taomlar",
+    description:
+      "Go'sht isi va va ziravorlar bilan to'yinib pishgan yangi chiqqan kartoshkadan mazaliroq taom bo'lmasa kerak. Ushbu taom ortiqcha urinishlarni talab etmasa ham, juda mazali bo'lib chiqadi.",
+    image:
+      "https://zira.uz/wp-content/uploads/2021/05/kazan-kebab-coca-cola-2.jpg",
+  },
+  {
+    id: 4,
+    title: "Manti «Atirgul»",
+    price: 22000,
+    category: "Quyuq taomlar",
+    description:
+      "Sizga o'zbek oshxonasining mazali va sevimli taomlaridan birining qiziqarli versiyasini tayyorlashni taklif etamiz. Mantalarning noodatiy ko'rinishi - dasturxonga tortganda chiroyli turadi. Aytgancha, nachinkasi chun siz piyoz va mol go'shtidan qizymadan foydalanishingiz mumkin, ammo bunday mantilarni yana kartoshka va hatto qovoq bilan pishirish ham mumkin.",
+    image:
+      "https://zira.uz/wp-content/uploads/2021/05/manty-rozochka-coca-cola-4.jpg",
+  },
+  {
+    id: 5,
+    title: "«Nuqta-nuqta»ga ega blinchiklar",
+    price: 35000,
+    category: "Nonushtalar",
+    description:
+      "«Nuqta-nuqta»ga ega noodatiy blinchiklar - istalgan nachinka bilan mos keladigan ajoyib desertdir. Ushbu blinchiklar har doim o'xshab chiqadi. Mana shunday yorqin blinchiklar tayyorlab, oila a'zolaringizni xursand qilishingizni maslahat beramiz.",
+    image:
+      "https://zira.uz/wp-content/uploads/2021/03/blinchiki-v-goroshek.jpg",
+  },
+  {
+    id: 6,
+    title: "Choyxona palov",
+    price: 45000,
+    category: "Quyuq taomlar",
+    description:
+      "Choyxona palov eng mazali oshlardan biri bo'lib, aynan shu palobni ko'pchilik o'z uyida tayyorlaydi. Bunda faqat qo'y go'shti va yog'idan foydalanamiz.",
+    image: "https://zira.uz/wp-content/uploads/2018/10/chaykhanskiy-plov-5.jpg",
+  },
+  {
+    id: 7,
+    title: "Yeryong'oqli havodor pechenye",
+    price: 12000,
+    category: "Pishiriqlar",
+    description:
+      "Merenga - bu yengil, havodor va juda mazali yegulik bo'lib, bugun biz bunday og'izda eriydigan pechenyeni qanday tayyorlashni ko'rsatamiz. Ushbu pechenye merenga va yeryong'oq bo'laklaridan tayyorlanadi.",
+    image: "https://zira.uz/wp-content/uploads/2021/04/arakhis-pechene-2.jpg",
+  },
+  {
+    id: 8,
+    title: "Olchaga ega shokoladli keks",
+    price: 52000,
+    category: "Pishiriqlar",
+    description:
+      "Biz olchaga ega  shokoladli keks tayyorlashni taklif qilamiz - bu ozgina olcha nordonligi va shokolad ta'mi bilan to'yingan juda mazali keks. Keks - bu kutilmagan mehmonlar uchun yoki yaqinlaringizga choy uchun tezda biror narsa tayyorlash kerak bo'lganda mos keladigan pishirish turi.",
+    image:
+      "https://zira.uz/wp-content/uploads/2021/02/shokoladnyi--_keks_s_vishnei--_i_glazuryu.jpg",
+  },
+  {
+    id: 9,
+    title: "«Oreo» torti",
+    price: 67000,
+    category: "Pishiriqlar",
+    description:
+      "«Oreo» pechenyelariga ega pishirishni talab etmaydigan juda mazali tort tayyorlashni taklif etamiz. Uni tayyorlash oson va sodda, bunday tort ajoyib ko'rinadi va hatto bayramona shirinlikni ham to'liq o'rnini bosa oladi. Tortning ta'mi nozik va qaymoqli bo'lib chiqadi, chunki uning asosiy tarkibi tvorogli pishloqdir. Ushbu shirinlik kattalar va bolalar tomonidan qadrlanishi aniq. Ustini xohlaganingizcha bezashingiz mumkin.",
+    image: "https://zira.uz/wp-content/uploads/2021/04/tort-oreo-5.jpg",
+  },
+];
